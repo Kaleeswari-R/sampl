@@ -11,3 +11,5 @@ with open("main.py", "rb") as file:
         data=file,
         file_name="main.py"
     )
+
+API_KEY = "AIzaSyBCP0R-bS5GY-sfCFmfBIumQXdHf1ihx0M"
